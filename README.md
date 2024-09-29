@@ -31,6 +31,17 @@ http://localhost:3000/auth
 Following instructions in the web application to signup for an account and start  using the application
 
 
+**Additional Commands**
+
+To list all models
+
+<code>docker exec -it ollama ollama list</code>
+
+To remove a model
+
+<code>docker exec -it ollama ollama rm llama3:latest</code>
+
+
 **Reference Links**
 
 [https://hub.docker.com/r/ollama/ollama](https://hub.docker.com/r/ollama/ollama)
