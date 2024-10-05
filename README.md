@@ -48,7 +48,7 @@ To remove a model
 
 
 
-##anythingllm
+## anythingllm
 
 https://github.com/Mintplex-Labs/anything-llm/tree/master
 
