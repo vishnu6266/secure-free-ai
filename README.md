@@ -1,6 +1,6 @@
 Consolidated list of quick guides to get started with using ai tools you can use locally in your laptop without paying any subscription fee 
 
-## Run chatgpt like interface in your laptop/mac
+## open-webui with ollama
 
 
 **Step 1 : Install Docker**
@@ -45,6 +45,17 @@ To remove a model
 **Reference Links**
 
 [https://hub.docker.com/r/ollama/ollama](https://hub.docker.com/r/ollama/ollama)
+
+
+
+##anythingllm
+
+https://github.com/Mintplex-Labs/anything-llm/tree/master
+
+
+
+
+
 
 [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
 
