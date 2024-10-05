@@ -1,6 +1,6 @@
 Consolidated list of quick guides to get started with using ai tools you can use locally in your laptop without paying any subscription fee 
 
-## Quick Guide to run chatgpt like interface in your laptop
+## Run chatgpt like interface in your laptop/mac
 
 
 **Step 1 : Install Docker**
