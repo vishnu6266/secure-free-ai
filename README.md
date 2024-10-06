@@ -1,7 +1,6 @@
-Consolidated list of quick guides to get started with using ai tools you can use locally in your laptop without paying any subscription fee 
+## Access private chatgpt application from your mobile browser hosted in your mac
 
-## open-webui with ollama
-
+Access private chatgpt application in your mobile device for free. Setup the 
 
 **Step 1 : Install Docker**
 
@@ -24,9 +23,15 @@ Check the model library and make sure you have enough RAM in the machine to run 
 
 <code> docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main </code>
 
-**Step 5 : Access open-webui using following link**
+**Step 5 : Find IP address of your mac**
 
-http://localhost:3000/auth
+Run following command in your mac to get the IP address 
+
+<code>ipconfig getifaddr en0 en1</code>
+
+**Step 5 : Access the application from your mobile**
+
+http://<ip>:3000/
 
 Following instructions in the web application to signup for an account and start  using the application
 
@@ -48,14 +53,4 @@ To remove a model
 
 
 
-## anythingllm
-
-https://github.com/Mintplex-Labs/anything-llm/tree/master
-
-
-
-
-
-
-[https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
 
