@@ -29,7 +29,7 @@ Run following command in your mac to get the IP address
 
 <code>ipconfig getifaddr en0 en1</code>
 
-**Step 5 : Access the application from your mobile**
+**Step 6 : Access the application from your mobile**
 
 http://<ip>:3000/
 
