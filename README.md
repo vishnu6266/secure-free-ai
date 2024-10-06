@@ -29,9 +29,13 @@ Run following command in your mac to get the IP address
 
 <code>ipconfig getifaddr en0 en1</code>
 
-**Step 6 : Access the application from your mobile**
+**Step 6 : Access the application from your mobile browser**
 
-http://<ip>:3000/
+Use the IP from above step to access the application.
+
+Following is an example URL 
+
+http://192.168.1.4:3000/
 
 Following instructions in the web application to signup for an account and start  using the application
 
