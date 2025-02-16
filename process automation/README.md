@@ -1,4 +1,4 @@
-Automate process locally in your mac
+**Automate process locally in your mac usin n8n**
 
 Step 1 : Install Docker
 
